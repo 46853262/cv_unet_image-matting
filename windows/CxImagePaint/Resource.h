@@ -2,20 +2,21 @@
 // Microsoft Visual C++ generated include file.
 // Used by CxImagePaint.rc
 //
-#define IDR_MAINFRAME                   128
-#define IDR_CXIMAGEPTYPE                129
-#define IDR_TOOLBAR1                    130
-#define ID_FILE_OPEN                    32771
-#define ID_FILE_SAVE                    32772
-#define ID_FILE_EXIT                    32773
-#define ID_VIEW_ZOOMIN                  32780
-#define ID_VIEW_ZOOMOUT                 32781
-#define ID_TOOLS_BRUSH                  32790
-#define ID_TOOLS_ERASER                 32791
-#define ID_TOOLS_INCREASE_SIZE          32792
-#define ID_TOOLS_DECREASE_SIZE          32793
-#define ID_TOOLS_INCREASE_OPACITY       32794
-#define ID_TOOLS_DECREASE_OPACITY       32795
-#define ID_TOOLS_INCREASE_HARDNESS      32796
-#define ID_TOOLS_DECREASE_HARDNESS      32797
-#define ID_TOOLS_TOGGLE_ERASER          32798
+#define IDS_APP_TITLE                   101
+#define IDD_CXIMAGEPAINT_DIALOG         102
+#define IDC_CANVAS                      1000
+#define IDC_BTN_OPEN                    1001
+#define IDC_BTN_SAVE                    1002
+#define IDC_BTN_COLOR                   1003
+#define IDC_CHK_ERASER                  1004
+#define IDC_BTN_ZOOMIN                  1005
+#define IDC_BTN_ZOOMOUT                 1006
+#define IDC_SLIDER_SIZE                 1007
+#define IDC_SLIDER_OPACITY              1008
+#define IDC_SLIDER_HARDNESS             1009
+#define IDC_SLIDER_SPACING              1010
+#define IDC_LBL_SIZE                    1011
+#define IDC_LBL_OPACITY                 1012
+#define IDC_LBL_HARDNESS                1013
+#define IDC_LBL_SPACING                 1014
+#define IDC_STATIC                      -1

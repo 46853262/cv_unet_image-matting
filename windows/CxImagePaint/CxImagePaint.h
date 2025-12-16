@@ -6,7 +6,6 @@ public:
     CCxImagePaintApp() noexcept;
 
     BOOL InitInstance() override;
-    void OnAppExit();
     int ExitInstance() override;
 
     DECLARE_MESSAGE_MAP()
